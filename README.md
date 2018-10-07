@@ -1,3 +1,5 @@
+# OBSOLETE - NumerousApp, alas, went belly up and this code has no purpose any more.
+
 # Nappy - python NumerousApp API 
 
 A python class implementing the [NumerousApp](http://www.numerousapp.com) [APIs](http://docs.numerous.apiary.io).
